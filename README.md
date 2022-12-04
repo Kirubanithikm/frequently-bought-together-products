@@ -1,0 +1,1 @@
+# frequently-bought-together-products
